@@ -1,6 +1,5 @@
-def remote_test()
+def remote_test():
   pass
 
-if __name__=='__main__'
+if __name__=='__main__':
   remote_test()
-  
